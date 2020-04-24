@@ -1,5 +1,7 @@
-# ReactRobofriendsApp
-
+# ReactImagesearchApp
+  
+  <b>Unsplash API is used in this app</b>
+ 
   How to run the project :
 
 1. Clone the project with HTTPS or SSH
